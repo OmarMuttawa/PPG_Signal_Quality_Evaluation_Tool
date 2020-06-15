@@ -4,15 +4,15 @@
 
 ### External Python Libraries required:
 
-natsort
-scipy
-PyQT
-pyqtgraph
+* natsort
+* scipy
+* PyQT
+* pyqtgraph
 
 ### Hardware Required for real time Acquisiton:
 
-AFE4900EVM
-SFH7072 Sensor Module
+* AFE4900EVM
+* SFH7072 Sensor Module
 
 ### Running
 
