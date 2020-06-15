@@ -1,0 +1,136 @@
+ Label
+Stefan_0 C
+Stefan_1 C
+Stefan_2 C
+Stefan_3 C
+Stefan_4 C
+Stefan_5 C
+Stefan_6 C
+Stefan_7 C
+Stefan_8 C
+Stefan_9 C
+Stefan_10 C
+Stefan_11 C
+Stefan_12 C
+Stefan_13 C
+Stefan_14 C
+Stefan_15 C
+Stefan_16 C
+Stefan_17 C
+Stefan_18 C
+Stefan_19 C
+Stefan_20 C
+Stefan_21 C
+Stefan_22 C
+Stefan_23 C
+Stefan_24 C
+Stefan_25 C
+Stefan_26 C
+Stefan_27 C
+Stefan_28 C
+Stefan_29 C
+Stefan_30 C
+Stefan_31 C
+Stefan_32 C
+Stefan_33 C
+Stefan_34 C
+Stefan_35 C
+Stefan_36 C
+Stefan_37 C
+Stefan_38 C
+Stefan_39 C
+Stefan_40 C
+Stefan_41 C
+Stefan_42 C
+Stefan_43 C
+Stefan_44 C
+Stefan_45 C
+Stefan_46 C
+Stefan_47 C
+Stefan_48 C
+Stefan_49 C
+Stefan_50 C
+Stefan_51 C
+Stefan_52 C
+Stefan_53 C
+Stefan_54 C
+Stefan_55 C
+Stefan_56 C
+Stefan_57 C
+Stefan_58 C
+Stefan_59 C
+"Stefan_Finger LED 2_0" C
+"Stefan_Finger LED 2_1" C
+"Stefan_Finger LED 2_2" C
+"Stefan_Finger LED 2_3" C
+"Stefan_Finger LED 2_4" C
+"Stefan_Finger LED 2_5" C
+"Stefan_Finger LED 2_6" C
+"Stefan_Finger LED 2_7" C
+"Stefan_Finger LED 2_8" C
+"Stefan_Finger LED 2_9" C
+"Stefan_Finger LED 2_10" C
+"Stefan_Finger LED 2_11" C
+"Stefan_Finger LED 2_12" C
+"Stefan_Finger LED 2_13" C
+"Stefan_Finger LED 2_14" C
+"Stefan_Finger LED 3_0" C
+"Stefan_Finger LED 3_1" C
+"Stefan_Finger LED 3_2" C
+"Stefan_Finger LED 3_3" C
+"Stefan_Finger LED 3_4" C
+"Stefan_Finger LED 3_5" C
+"Stefan_Finger LED 3_6" C
+"Stefan_Finger LED 3_7" C
+"Stefan_Finger LED 3_8" C
+"Stefan_Finger LED 3_9" C
+"Stefan_Finger LED 3_10" C
+"Stefan_Finger LED 3_11" C
+"Stefan_Finger LED 3_12" C
+"Stefan_Finger LED 3_13" C
+"Stefan_Finger LED 3_14" C
+"Stefan_Wrist LED 1_0" C
+"Stefan_Wrist LED 1_1" C
+"Stefan_Wrist LED 1_2" C
+"Stefan_Wrist LED 1_3" C
+"Stefan_Wrist LED 1_4" C
+"Stefan_Wrist LED 1_5" C
+"Stefan_Wrist LED 1_6" C
+"Stefan_Wrist LED 1_7" C
+"Stefan_Wrist LED 1_8" C
+"Stefan_Wrist LED 1_9" C
+"Stefan_Wrist LED 1_10" C
+"Stefan_Wrist LED 1_11" C
+"Stefan_Wrist LED 1_12" C
+"Stefan_Wrist LED 1_13" C
+"Stefan_Wrist LED 1_14" C
+"Stefan_Wrist LED 2_0" C
+"Stefan_Wrist LED 2_1" C
+"Stefan_Wrist LED 2_2" C
+"Stefan_Wrist LED 2_3" C
+"Stefan_Wrist LED 2_4" C
+"Stefan_Wrist LED 2_5" C
+"Stefan_Wrist LED 2_6" C
+"Stefan_Wrist LED 2_7" C
+"Stefan_Wrist LED 2_8" C
+"Stefan_Wrist LED 2_9" C
+"Stefan_Wrist LED 2_10" C
+"Stefan_Wrist LED 2_11" C
+"Stefan_Wrist LED 2_12" C
+"Stefan_Wrist LED 2_13" C
+"Stefan_Wrist LED 2_14" C
+"Stefan_Wrist LED 3_0" C
+"Stefan_Wrist LED 3_1" C
+"Stefan_Wrist LED 3_2" C
+"Stefan_Wrist LED 3_3" C
+"Stefan_Wrist LED 3_4" C
+"Stefan_Wrist LED 3_5" C
+"Stefan_Wrist LED 3_6" C
+"Stefan_Wrist LED 3_7" C
+"Stefan_Wrist LED 3_8" C
+"Stefan_Wrist LED 3_9" C
+"Stefan_Wrist LED 3_10" C
+"Stefan_Wrist LED 3_11" C
+"Stefan_Wrist LED 3_12" C
+"Stefan_Wrist LED 3_13" C
+"Stefan_Wrist LED 3_14" C
