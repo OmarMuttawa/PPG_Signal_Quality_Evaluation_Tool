@@ -16,7 +16,7 @@
 
 ### Running
 
-Run main.py: Flow diagram of operation found in report
+Run Analysis_GUI.py: Flow diagram of operation found in report
 
 NOTE: If it is intended to record and Analyse PPG signals in real time using the
 AFE4900EVM one must know the name and location of the serial port on which the
