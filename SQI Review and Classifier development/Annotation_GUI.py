@@ -1,4 +1,4 @@
-from matplotlib import cm
+
 from pyqtgraph.Qt import QtCore, QtGui
 import pyqtgraph as pg
 import numpy as np
